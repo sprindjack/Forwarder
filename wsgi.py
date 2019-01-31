@@ -14,7 +14,7 @@ __Version__ = "1.2.4"
 __Author__ = "cdhigh <https://github.com/cdhigh>"
 
 from wsgiref.util import is_hop_by_hop
-import os, urllib, urllib2, socket, bottle
+import os, urllib, socket, bottle
 
 ALLOW_KEYS = 'xzSlE'
 
